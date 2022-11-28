@@ -30,7 +30,7 @@ N/A
 Please refer to the licence in the repo.
 
 ## Link to live
-https://sarah-el.github.io/html-css-refractor/
+https://sarah-el.github.io/HTML-CSS-refactor/
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/117095370/204286292-c2716cab-00bb-404f-a9cc-e3d3a4307aeb.png)
