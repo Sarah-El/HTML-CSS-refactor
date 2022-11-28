@@ -33,5 +33,6 @@ Please refer to the licence in the repo.
 https://sarah-el.github.io/html-css-refractor/
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/117095370/200072997-1cf306c3-b6d8-474d-8bb3-eb36a0e9f905.png)
-![image](https://user-images.githubusercontent.com/117095370/200073038-08b2fcc8-7e9a-429d-9129-e0abed2d04ec.png)
+![image](https://user-images.githubusercontent.com/117095370/204286292-c2716cab-00bb-404f-a9cc-e3d3a4307aeb.png)
+
+<img width="1421" alt="image" src="https://user-images.githubusercontent.com/117095370/204286103-475876f3-152d-4ff9-ae3d-c0f854dc4eb4.png">
